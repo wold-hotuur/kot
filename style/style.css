@@ -1,0 +1,43 @@
+html {
+    font-size: 10px;
+    font-family: 'Playfair Display SC', serif;
+    background-color: rgb(211, 211, 211);
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+p,li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+body {
+    width: 80%;
+    margin: 0 auto;
+    background-color: cadetblue;
+    padding: 0 20px 20px 20px;
+    border: 3px solid rgb(58, 58, 58);
+
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+}
+.myClass{
+    color: rgb(111, 0, 255);
+    font-weight: bold;
+}
+.imgclass{
+    width: 50%;
+}
+a:link{
+    color: rgb(55, 0, 255);
+}
+a:visited{
+    color: rgb(0, 255, 0);
+}
+a:hover{
+    text-decoration: none;
+}
